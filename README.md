@@ -1,7 +1,7 @@
 # VIVENDO-FOOD-CLAIMS-ANALYSIS
-This analysis was carried out on Vivendo Fast Food, a restaurant in Brazil with over 200 outlets. This Fast Food received feedback on Customers’ Satisfaction, which include complains of food poisoning. Each customer gets compensation for every food poison claim.
-The legal team working for Vivendo Fast Food operate from offices in four locations across the country. In order to improve the duration of time to respond each customer’s claim and the close time for each, the Head of Legal Team wants a report on how location differs in the duration it takes to close claims.
-# Business Question asked by the Head of Legal Team are as follows;
+This analysis was carried out on Vivendo Fast Food, a restaurant in Brazil with over 200 outlets. This Fast Food received feedback on Customers’ Satisfaction, which include complaints of food poisoning. Each customer gets compensation for every food poisoning claim.
+The legal team working for Vivendo Fast Food operates from offices in four locations across the country. In order to improve the duration of time to respond to each customer’s claim and the close time for each, the Head of Legal Team wants a report on how location differs in the duration it takes to close claims.
+# Business Questions asked by the Head of Legal Team are as follows;
 •	How does number of claims differ by the four locations?
 
 •	What is the distribution of time for all claims?
