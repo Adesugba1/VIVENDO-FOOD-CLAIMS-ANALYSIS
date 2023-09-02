@@ -59,4 +59,3 @@ The Individual_on_claim Column Format was change to “Number”
 The 26 missing values in the Linked_cases were replaced with FALSE using “Find and Replace”
 
 In the Causes column, the 16 inconsistent spellings were replaced with “vegetable” using “Find and Replace”
-
