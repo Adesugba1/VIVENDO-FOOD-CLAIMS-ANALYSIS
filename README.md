@@ -63,5 +63,5 @@ The bar chart above shows that, the observations are not balance across categori
 From the chart above, 1428 claims take between 100 to 199 days to close, 489 claims take 200 to 299 days to close, 53 claims take between 300 to 400 days to close, 24 claims take less than 100 days to close and 6 claims take more than 400 days to close. The column chart was chosen because the description deals with categorical data (grouped time to close) and continuous data (no of claims).
 
 ### Describe the relationship between time to close and location. Your answer must include a visualization to demonstrate the relationship
-![image](https://github.com/Adesugba1/VIVENDO-FOOD-CLAIMS-ANALYSIS/assets/143879001/4f580581-8b74-4e96-af2c-92c7a414297b)
+![image](https://github.com/Adesugba1/VIVENDO-FOOD-CLAIMS-ANALYSIS/assets/143879001/001dd454-6ee2-483a-82a7-c5188fc195f0)
 The box plot shows the five summary of the time to close for all claims and the outliers. From the box the minimum is given as 76, lower quartile is given as 158, median is given as 179, upper quartile is 204 and the maximum is 518. Also, the statistical data set is normally distributed.
